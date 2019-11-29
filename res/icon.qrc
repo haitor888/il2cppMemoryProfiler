@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>devices.ico</file>
+        <file>devices.icns</file>
+    </qresource>
+    <qresource prefix="/toolbutton">
+        <file>btn_callstacks.png</file>
+        <file>btn_open.png</file>
+        <file>btn_save.png</file>
+        <file>btn_stat.png</file>
+        <file>btn_treemap.png</file>
+        <file>btn_visualize.png</file>
+        <file>btn_capture.png</file>
+        <file>btn_next.png</file>
+        <file>btn_previous.png</file>
+    </qresource>
+</RCC>
